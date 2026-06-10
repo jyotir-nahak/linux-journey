@@ -6,6 +6,8 @@ Key commands I learned today:
 * cd - Change directory
 
 / - bottom of the system or root directory - Can not manipulate any directory or file here unless you use 'sudo'
+
 /home - you can only see the users - Can not manipulate any directory or file here
+
 ~ - Users personal folder - manipulation are done here
 
